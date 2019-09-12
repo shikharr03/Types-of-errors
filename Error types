@@ -1,0 +1,16 @@
+Types of Errors :
+
+
+1. IndentationError
+2. TypeError
+3. ValueError
+4. IndexError
+5. KeyError
+6. AttributeError
+7. ImportError
+8. FileNotFoundErro
+9. ModuleNotFoundError
+10. SyntaxError
+11. KeyboardInterrupt(CTRL+C)
+12. ZeroDivisionError
+Just  try 100/0 
